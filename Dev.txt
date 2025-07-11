@@ -1,0 +1,26 @@
+user stories
+feature files or feature documents
+Built End-to-End CI/CD Pipeline
+Stages of DevOps architecture :
+1️⃣ Plan
+▪︎Define the project goals, features, and tasks.
+▪︎Teams collaborate and follow Agile methods to stay organized and efficient.
+2️⃣ Code
+▪︎Developers write code using version control tools like Git.
+▪︎ This Helps to track changes, fix bugs, and manage code across teams.
+3️⃣ Build
+▪︎Code is compiled and turned into executable software. 
+4️⃣ Test
+▪︎Testing is an analytical process to check if the software works correctly.
+▪︎It helps to find problems early and make sure everything is ready before release.
+5️⃣ Release
+▪︎The software is packaged and prepared for deployment.
+▪︎Automated tools handle this, but production releases may still be manual for safety.
+6️⃣ Deploy
+▪︎Code is moved into the live environment (like staging or production).
+7️⃣ Operate
+▪︎Dev and Ops teams collaborate continuously to keep systems stable.
+▪︎They monitor performance, manage servers, and handle incidents together.
+8️⃣ Monitor
+▪︎Continuous monitoring helps spot problems early.
+▪︎Tools like Splunk track logs, health, and system performance to improve future updates.
